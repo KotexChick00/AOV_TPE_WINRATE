@@ -13,6 +13,7 @@ Navigate to the clone directory
 Execute these commands in your terminal:
 
 _npm i --save-dev @types/bun_
+
 _bun run index.ts_
 
 Then navigate to localhost:3000 on your web browser.
